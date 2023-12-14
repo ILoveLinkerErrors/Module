@@ -1,0 +1,14 @@
+/home/user/code/csharp/OOP_Labs/module/bin/Debug/net8.0/module
+/home/user/code/csharp/OOP_Labs/module/bin/Debug/net8.0/module.deps.json
+/home/user/code/csharp/OOP_Labs/module/bin/Debug/net8.0/module.runtimeconfig.json
+/home/user/code/csharp/OOP_Labs/module/bin/Debug/net8.0/module.dll
+/home/user/code/csharp/OOP_Labs/module/bin/Debug/net8.0/module.pdb
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/module.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/module.AssemblyInfoInputs.cache
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/module.AssemblyInfo.cs
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/module.csproj.CoreCompileInputs.cache
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/module.dll
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/refint/module.dll
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/module.pdb
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/module.genruntimeconfig.cache
+/home/user/code/csharp/OOP_Labs/module/obj/Debug/net8.0/ref/module.dll
