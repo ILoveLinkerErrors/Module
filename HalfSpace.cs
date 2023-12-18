@@ -21,7 +21,7 @@ class HalfSpace {
         }
     }
 
-    protected double A3 {
+    protected double A3 { // oops, should be public, not protected
         get {
             return a3;
         }
